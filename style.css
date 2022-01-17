@@ -1,0 +1,60 @@
+#mycarousel img{
+    
+    height: 600px;
+}
+
+#mycarousel{
+    
+    background-color: burlywood;
+    
+}
+
+.carousel-inner p
+{
+    margin-top: 550px;
+    margin-bottom: 550px;
+    color: burlywood;
+}
+
+.widthhei{
+    width:150;
+        height: 50px;
+}
+
+.col
+{
+    background-color:navajowhite;
+}
+.ch2
+{
+    background-color: blanchedalmond;
+}
+
+.ch2 img
+{
+    width: 200;
+    height: 250;
+    transition: transform .3s;
+}
+
+.none:hover
+{
+    
+transform: scale(0.9);
+       
+}
+.libre
+{
+    font-family:Libre Baskerville;
+    
+}
+
+.Dremx:hover
+{
+  transform: scale(0.9);  
+}
+
+
+
+
+    
